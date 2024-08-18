@@ -52,13 +52,23 @@ const projects = [
   },
   {
     num: "04",
-    category: "frontend",
+    category: "fullstack",
     title: "Employee Information Management System (EIMS)",
     description: "This EMPLOYEE INFORMATION MANAGEMENT SYSTEM (EIMS) is designed to streamline the management of employee data within an organization. This project aims to provide a robust, user-friendly platform that allows for efficient handling of employee records, enhancing HR processes and improving overall organizational productivity.",
     stack: [{ name: "React.js"}, {name: "TailwindCss"}],
     image: "/assets/work/thumb4.png",
     live: "https://p3-react-app-sigma.vercel.app/",
     github: "https://github.com/alelimiranda227/p3-react-app",
+  },
+  {
+    num: "05",
+    category: "frontend",
+    title: "Employee Information Management System (EIMS)",
+    description: "This EMPLOYEE INFORMATION MANAGEMENT SYSTEM (EIMS) is designed to streamline the management of employee data within an organization. This project aims to provide a robust, user-friendly platform that allows for efficient handling of employee records, enhancing HR processes and improving overall organizational productivity.",
+    stack: [{ name: "React.js"}, { name: "Node.js"},{ name: "Express.js"}, { name: "MongoDB"},{ name: "RESTFul API"}],
+    image: "/assets/work/thumb4.png",
+    live: "",
+    github: "",
   },
 ];
 
