@@ -52,7 +52,7 @@ const projects = [
   },
   {
     num: "04",
-    category: "fullstack",
+    category: "frontend",
     title: "Employee Information Management System (EIMS)",
     description: "This EMPLOYEE INFORMATION MANAGEMENT SYSTEM (EIMS) is designed to streamline the management of employee data within an organization. This project aims to provide a robust, user-friendly platform that allows for efficient handling of employee records, enhancing HR processes and improving overall organizational productivity.",
     stack: [{ name: "React.js"}, {name: "TailwindCss"}],
@@ -62,7 +62,7 @@ const projects = [
   },
   {
     num: "05",
-    category: "frontend",
+    category: "fullstack",
     title: "Employee Information Management System (EIMS)",
     description: "This EMPLOYEE INFORMATION MANAGEMENT SYSTEM (EIMS) is designed to streamline the management of employee data within an organization. This project aims to provide a robust, user-friendly platform that allows for efficient handling of employee records, enhancing HR processes and improving overall organizational productivity.",
     stack: [{ name: "React.js"}, { name: "Node.js"},{ name: "Express.js"}, { name: "MongoDB"},{ name: "RESTFul API"}],
